@@ -1,2 +1,2 @@
 # Exercises
-python code exercises from codewars.com
+python code exercises from codewars.com by me
